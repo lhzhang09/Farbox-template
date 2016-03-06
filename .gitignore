@@ -1,0 +1,6 @@
+echo "# Farbox-theme" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lhzhang09/Farbox-theme.git
+git push -u origin master
