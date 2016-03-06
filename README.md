@@ -1,5 +1,5 @@
-# Farbox-theme
-a Farbox theme, revised version for Maupassant
+# Farbox-template
+a Farbox template, revised version for Maupassant
 
 Demo: http://lhzhang.cn
 
